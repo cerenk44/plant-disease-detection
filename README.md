@@ -29,7 +29,7 @@ After training for 10 epochs, the model achieved exceptional results, proving it
 
 ## How to Run
 **1. Clone this repository:**
-> git clone [https://github.com/YOUR_GITHUB_USERNAME/plant-disease-detection.git](https://github.com/YOUR_GITHUB_USERNAME/plant-disease-detection.git)
+> git clone [https://github.com/cerenk44/plant-disease-detection.git](https://github.com/cerenk44/plant-disease-detection.git)
 
 **2. Install required libraries:**
 Make sure you have Python installed, then install the dependencies:
