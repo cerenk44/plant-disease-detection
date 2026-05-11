@@ -38,6 +38,6 @@ Make sure you have Python installed, then install the dependencies:
 **3. Download the Model:**
 **Important:** Due to GitHub's file size limits, the trained model (`.h5` file) is stored in the **Releases** section. Download the `plant_disease_model.h5` file from the [Releases](https://github.com/cerenk44/plant-disease-detection/releases) tab and place it in the project root directory.
 
-## 🔮 Future Work
+## Future Work
 * Integrating Transfer Learning (e.g., MobileNetV2) for comparison to achieve even higher accuracy.
 * Developing a simple Web Interface (Flask/Streamlit) to upload leaf images and get real-time predictions.
